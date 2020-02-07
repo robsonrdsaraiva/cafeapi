@@ -2,11 +2,11 @@
 require __DIR__ . "/assets/config.php";
 require __DIR__ . "/../vendor/autoload.php";
 
-use RobsonVLeite\CafeApi\Invoices;
+use RobsonRDSaraiva\CafeApi\Invoices;
 
 $invoices = new Invoices(
-    "localhost/fsphp/cafeapi/",
-    "seuemail@gmail.com",
+    "localhost/cursos/fsphp/cafeapi/",
+    "robsonrdsaraiva@gmail.com",
     "12345678"
 );
 

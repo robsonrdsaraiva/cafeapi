@@ -4,7 +4,7 @@ namespace RobsonRDSaraiva\CafeApi;
 
 /**
  * Class CafeApi
- * @package RobsonVLeite\CafeApi
+ * @package RobsonRDSaraiva\CafeApi
  */
 abstract class CafeApi
 {
